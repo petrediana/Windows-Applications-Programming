@@ -1,0 +1,12 @@
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\bin\Debug\date.txt
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\bin\Debug\Seminar6.exe.config
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\bin\Debug\Seminar6.exe
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\bin\Debug\Seminar6.pdb
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.Properties.Resources.resources
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.csproj.GenerateResource.cache
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.csproj.CoreCompileInputs.cache
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.exe
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.pdb
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.Form1.resources
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.csprojAssemblyReference.cache
+C:\Users\Stud\Desktop\Seminar6\Seminar6\Seminar6\obj\Debug\Seminar6.Form2.resources

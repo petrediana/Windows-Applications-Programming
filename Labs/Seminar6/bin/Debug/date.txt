@@ -1,0 +1,95 @@
+47
+Botea V. Adrian-Fabian
+8 10 5 7 10 10 4 6 5
+Bude I. Viorel
+9 4 9 10 10 6 10 5 5 4
+Catona E. Tiberiu-Cornel
+9 7 10 5 5 4 9 8 5 4
+Chis Gh. Adrian
+10 4 9 7 8 4 7 4 8 10 10
+Chisvasi Gh. Cristian
+8 7 6 7 7 9 4 10 10
+Cioba I. Anton-Vasile
+8 10 4 8 6 7 5 8 10
+Corniciuc M. Andrei
+9 5 5 10 5 7 6 5 6 5
+Cuceu V. C. Florin
+10 9 10 8 6 5 6 10 7 8 9
+Demian A. L. Adrian-George
+9 8 8 5 9 8 10 5 4 4
+Fancsali B. Samuel
+10 10 4 6 9 8 5 6 9 5 5
+Galea I. Aurel
+9 9 5 4 6 6 9 7 4 8
+Horgo s A. Nicolae-Lucian
+9 10 4 10 7 8 8 6 10 6
+Iluta Gh. Florin
+8 5 5 10 10 9 5 7 7
+Lenghel V. Vasile
+8 8 9 7 7 10 9 7 5
+Marusciac M. Dumitru
+9 5 5 8 4 6 6 10 4 6
+Ola Adrian - Constantin
+8 4 7 10 10 9 4 5 8
+Oprea D. Ionut-Dumitru
+8 4 7 5 5 10 9 4 10
+Pop V. Vasile-Adrian
+9 8 10 9 4 7 10 8 5 7
+Sabau S. Gabriel-Simion
+8 9 7 4 9 10 6 7 8
+Seica Gh. Gheorghe-Ion
+9 9 9 7 9 5 5 4 10 4
+Spatar T. G. Adrian
+10 8 5 6 7 7 7 6 7 10 4
+Borzos Gabriel Florian
+8 6 7 8 10 9 9 4 9
+Ciutina Dacian Codrin
+8 10 7 4 6 4 8 4 5
+Cuibus Calin Eugen
+9 10 6 10 7 6 10 4 7 4
+Duma Marcel Gavril
+9 6 7 10 8 8 7 7 5 10
+Frandos Nicolae George
+10 7 7 4 5 9 10 5 5 4 7
+Jula Ioan Marius
+10 6 5 10 10 9 5 9 5 9 10
+Kalabis Angelo Mihai
+8 8 7 6 9 4 10 7 9
+Moldovan Florin Ioan
+9 6 5 5 4 6 5 8 8 6
+Ortan Ciprian Mircea
+10 9 6 8 9 4 5 10 8 10 6
+Ostropel Victor
+9 4 4 10 5 9 8 10 10 10
+Pacala Marius Florin
+8 8 5 10 7 4 10 9 8
+Patrulescu Bogdan Florin
+9 7 5 9 4 4 10 4 9 6
+Podar Adrian Vasile
+9 4 5 8 6 10 5 4 6 10
+Pogacean Virgil
+9 7 9 8 6 6 5 4 8 5
+Pop Valentin
+10 6 4 4 6 10 7 5 4 10 5
+Prodaniuc Vasile
+10 10 7 6 9 4 4 10 4 5 10
+Remes Razvan Valentin
+9 10 4 4 8 7 7 8 10 9
+Rosca Sorin Aurel
+9 7 6 6 4 5 6 6 6 10
+Sana Silviu Iulian
+8 6 8 9 8 5 6 8 6
+Seles Ion Manuel
+8 5 8 10 10 8 5 4 5
+simonca Mihai Bogdan
+8 10 9 7 10 7 6 7 5
+Tegzes Tudor
+8 9 10 9 7 8 6 10 5
+Toth Cristian Marius
+8 5 7 6 5 9 6 10 7
+Turbui Flaviu Alexandru
+10 7 6 8 9 4 4 4 6 4 7
+asdf
+10 10
+asdfff2
+11 12 13 14
