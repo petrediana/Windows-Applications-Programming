@@ -1,0 +1,17 @@
+ var dir = @"T:\AAA\bbb";
+
+            if (!Directory.Exists(dir))
+            {
+                MessageBox.Show("Folder created!");
+                Directory.CreateDirectory(dir);
+            }
+
+            List<string> list = new List<string>();
+            list.Add("aaa");
+            list.Add("bbb");
+            list.Add("ccc");
+
+            foreach (var l in list)
+            {
+                File.AppendAllText(Path.Combine(dir, "log.txt"), l + " " );
+            }
