@@ -17,6 +17,33 @@ namespace WindowsFormsApp1
             Paint += Grafic_paint;
 
             KeyDown += Grafic_KeyDown;
+
+            MouseDown += Grafic_MouseDown;
+
+            AllowDrop = true;
+            DragEnter += Grafic_DragEnter;
+            DragDrop += Grafic_DragDrop;
+        }
+
+        private void Grafic_DragEnter(object sender, DragEventArgs e)
+        {
+            if (e.Data.GetDataPresent(typeof(string)))
+            {
+                string strValori = (string)e.Data.GetData(typeof(string));
+                Valori = strValori.Split(',').Select(val => int.Parse(val)).ToArray();
+            }
+        }
+
+        private void Grafic_DragDrop(object sender, DragEventArgs e)
+        {
+            if (e.Data.GetDataPresent(typeof(string)))
+            {
+                e.Effect = DragDropEffects.Copy;
+            }
+            else
+            {
+                e.Effect = DragDropEffects.None;
+            }
         }
 
         public int[] Valori
@@ -75,6 +102,13 @@ namespace WindowsFormsApp1
                 ppd.Document = document;
                 ppd.ShowDialog(this);
             }
+        }
+
+        private void Grafic_MouseDown(object sender, MouseEventArgs e)
+        {
+            DataObject data = new DataObject();
+            data.SetData(typeof(string), string.Join(",", valori));
+            DoDragDrop(data, DragDropEffects.Copy);
         }
     }
 
