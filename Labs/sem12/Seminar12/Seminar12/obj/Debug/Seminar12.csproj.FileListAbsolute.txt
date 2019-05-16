@@ -1,0 +1,10 @@
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\bin\Debug\Seminar12.exe.config
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\bin\Debug\Seminar12.exe
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\bin\Debug\Seminar12.pdb
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\obj\Debug\Seminar12.csprojAssemblyReference.cache
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\obj\Debug\Seminar12.Properties.Resources.resources
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\obj\Debug\Seminar12.csproj.GenerateResource.cache
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\obj\Debug\Seminar12.csproj.CoreCompileInputs.cache
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\obj\Debug\Seminar12.exe
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\obj\Debug\Seminar12.pdb
+C:\Users\Stud\Desktop\sem12\Seminar12\Seminar12\obj\Debug\Seminar12.Form1.resources
