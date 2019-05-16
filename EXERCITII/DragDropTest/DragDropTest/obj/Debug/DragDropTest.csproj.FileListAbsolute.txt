@@ -1,0 +1,10 @@
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\bin\Debug\DragDropTest.exe.config
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\bin\Debug\DragDropTest.exe
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\bin\Debug\DragDropTest.pdb
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\obj\Debug\DragDropTest.csprojAssemblyReference.cache
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\obj\Debug\DragDropTest.Form1.resources
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\obj\Debug\DragDropTest.Properties.Resources.resources
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\obj\Debug\DragDropTest.csproj.GenerateResource.cache
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\obj\Debug\DragDropTest.csproj.CoreCompileInputs.cache
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\obj\Debug\DragDropTest.exe
+C:\Users\Peanutt\Desktop\VS\C#\DragDropTest\DragDropTest\obj\Debug\DragDropTest.pdb
