@@ -1,0 +1,13 @@
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\bin\Debug\scenariuEx.exe.config
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\bin\Debug\scenariuEx.exe
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\bin\Debug\scenariuEx.pdb
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.csprojAssemblyReference.cache
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.csproj.CoreCompileInputs.cache
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.exe
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.pdb
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\bin\Debug\Studenti.mdb
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.MeniuPrincipal.resources
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.VeziListaStudenti.resources
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.csproj.GenerateResource.cache
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.VeziGrafic.resources
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\scenariuEx\scenariuEx\obj\Debug\scenariuEx.AdaugaStudent.resources
