@@ -1,0 +1,12 @@
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\bin\Debug\DeToate.exe.config
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\bin\Debug\DeToate.exe
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\bin\Debug\DeToate.pdb
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.csprojAssemblyReference.cache
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.csproj.CoreCompileInputs.cache
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.exe
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.pdb
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.FormularPrincipal.resources
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.csproj.GenerateResource.cache
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\bin\Debug\Studenti.mdb
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.DateInListViewForm.resources
+C:\Users\Peanutt\Desktop\VS\C#\EXERCITII\DeToate\DeToate\obj\Debug\DeToate.VeziTreeViewForm.resources

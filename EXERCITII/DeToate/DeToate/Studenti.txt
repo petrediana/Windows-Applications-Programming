@@ -1,0 +1,4 @@
+﻿10,Ionel,9.04
+11,Marcel,10
+12,Gigel,7.49
+400,Mirel,4
